@@ -8,3 +8,5 @@ This model has been pushed to the Hub using the [PytorchModelHubMixin](https://h
 - Code: [More Information Needed]
 - Paper: [More Information Needed]
 - Docs: [More Information Needed]
+
+- to download model https://limewire.com/d/g9bz2#RV3h0cEVP8
