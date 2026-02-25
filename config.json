@@ -1,0 +1,9 @@
+{
+  "attention_mechanism": false,
+  "decoder_hidden_size": 1024,
+  "decoder_num_layers": 1,
+  "encoder_hidden_size": 1024,
+  "encoder_num_layers": 1,
+  "input_size": 300,
+  "output_size": 9
+}
